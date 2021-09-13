@@ -1,0 +1,1 @@
+C:\Users\X\Desktop\bluelite\bluelite-externals\buildSrc\build\classes\kotlin\main\Libraries$Versions.class;C:\Users\X\Desktop\bluelite\bluelite-externals\buildSrc\build\classes\kotlin\main\Libraries.class
